@@ -1,3 +1,13 @@
+Metadata-Version: 2.1
+Name: image_processing
+Version: 0.0.1
+Summary: Pacote criado no curso DIO
+Home-page: https://github.com/paulohdsanches/image-processing-package
+Author: Paulo Sanches
+Author-email: paulohdsanches@gmail.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
 # image_processing
 
 Description. 
