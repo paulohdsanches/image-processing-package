@@ -14,7 +14,7 @@ setup(
     description='Pacote criado no curso DIO',
     long_description=page_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/paulohdsanches/image-processing-phds',
+    url='https://github.com/paulohdsanches/image-processing-package',
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',    

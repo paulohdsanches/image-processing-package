@@ -1,8 +1,8 @@
 Metadata-Version: 2.2
-Name: image_processing
+Name: image_processing_phds
 Version: 0.0.1
 Summary: Pacote criado no curso DIO
-Home-page: https://github.com/paulohdsanches/image-processing-package
+Home-page: https://github.com/paulohdsanches/image-processing-phds
 Author: Paulo Sanches
 Author-email: paulohdsanches@gmail.com
 Requires-Python: >=3.8
@@ -15,10 +15,10 @@ Dynamic: home-page
 Dynamic: requires-python
 Dynamic: summary
 
-# image_processing
+# image_processing_phds
 
 Description. 
-The package image_processing is used to:
+The package image_processing_phds is used to:
 	
 	Processing:		
 		- Histogram matching 
@@ -38,7 +38,7 @@ The package image_processing is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing
 
 ```bash
-pip install image_processing
+pip install image_processing_phds
 ```
 
 ## Author
