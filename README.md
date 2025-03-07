@@ -1,7 +1,7 @@
-# image_processing
+# image_processing_phds
 
 Description. 
-The package image_processing is used to:
+The package image_processing_phds is used to:
 	
 	Processing:		
 		- Histogram matching 
@@ -21,7 +21,7 @@ The package image_processing is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing
 
 ```bash
-pip install image_processing
+pip install image_processing_phds
 ```
 
 ## Author
